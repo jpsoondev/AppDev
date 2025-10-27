@@ -17,6 +17,7 @@ Lead Actor: Keanu Reeves
 Genre: Action Thriller
 ------------------------
 IMDB Rating 7.4 / 10
+------------------------
 
 💙 Why I Love This Series
 1. Incredible fight choreography
@@ -25,6 +26,10 @@ IMDB Rating 7.4 / 10
 4. Keanu Reeves’ dedication to realism in stunts
 
 Favorite Quotes:
-Highlight: “John Wick isn’t exactly the boogeyman. ==He’s the one you send to kill the boogeyman==.”
-CodeBlock: $ hurt_dog.sh
-           > Warning: You have made a terrible mistake.
+Highlight: John Wick isn’t exactly the boogeyman. ==He’s the one you send to kill the boogeyman==
+
+{
+  "firstName": "John",
+  "lastName": "Wick",
+  "age": 40
+}
