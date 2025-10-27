@@ -26,10 +26,11 @@ IMDB Rating 7.4 / 10
 4. Keanu Reeves’ dedication to realism in stunts
 
 Favorite Quotes:
+----------------
 Highlight: John Wick isn’t exactly the boogeyman. ==He’s the one you send to kill the boogeyman==
 
 {
-  "firstName": "John",
-  "lastName": "Wick",
-  "age": 40
+1. "firstName": "John",
+2. "lastName": "Wick",
+3. "age": 40
 }
