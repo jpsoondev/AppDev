@@ -11,9 +11,11 @@ the death of his beloved dog — a final gift from his late wife.
 
 🔑 Key Detail
 Director: Chad Stahelski
+------------------------
 Lead Actor: Keanu Reeves
+------------------------
 Genre: Action Thriller
-Release Year: 2014
+------------------------
 IMDB Rating 7.4 / 10
 
 💙 Why I Love This Series
