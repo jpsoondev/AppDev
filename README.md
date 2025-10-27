@@ -1,8 +1,10 @@
 # AppDev
 My first repository
+
 Favorite Movie Series: John Wick
 
 "People keep asking if I'm back... Yeah, i'm thinking I'm back!"
+
 🎬 Overview
 
 John Wick is a 2014 neo-noir action thriller film directed by Chad Stahelski and 
