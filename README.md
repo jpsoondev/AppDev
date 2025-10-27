@@ -17,10 +17,10 @@ Release Year: 2014
 IMDB Rating 7.4 / 10
 
 💙 Why I Love This Series
--Incredible fight choreography
--Stylish cinematography
--Iconic “Baba Yaga” mythos
--Keanu Reeves’ dedication to realism in stunts
+1.Incredible fight choreography
+2.Stylish cinematography
+3.Iconic “Baba Yaga” mythos
+4.Keanu Reeves’ dedication to realism in stunts
 
 Favorite Quotes:
 Highlight: “John Wick isn’t exactly the boogeyman. ==He’s the one you send to kill the boogeyman==.”
